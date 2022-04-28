@@ -22,12 +22,15 @@
     border-radius: 20px;
     background-color: whitesmoke
   }
+  
+  #translated-text {
+      color: black;
+  }
 
   #output-section {
     /* border: 1px solid whitesmoke; */
     width: 100%;
     margin: 10px;
-    color: black;
     padding: 10px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     border-radius: 20px;
